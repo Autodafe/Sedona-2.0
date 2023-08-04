@@ -17,5 +17,6 @@ _`.github`, `.editorconfig`, `.gitattributes`, `.gitignore`, `.stylelintrc`, `pa
 Чтобы установить все зависимости в Node.js - используйте `npm i`.
 
 ---
+*Описание проекта в процессе редактирования и дополнения.
 
 
